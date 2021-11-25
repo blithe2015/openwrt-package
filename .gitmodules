@@ -1,0 +1,6 @@
+[submodule "luci-theme-argon-mc"]
+	path = luci-theme-argon-mc
+	url = https://github.com/blithe2015/luci-theme-argon-mc.git
+[submodule "luci-app-tencentddns"]
+	path = luci-app-tencentddns
+	url = https://github.com/blithe2015/luci-app-tencentddns.git
